@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+### Enthusiastic software engineer eager to contribute to team success through hard work, attention to detail 
+and excellent organizational skills. Motivated to learn, grow and excel in my programming abilities
 <!--
-**Typical-Joey/Typical-Joey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
